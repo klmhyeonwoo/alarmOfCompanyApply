@@ -189,7 +189,7 @@
 		"link": "/Company/16154198/Info"
 	},
 	"에스케이핀크스㈜": {
-		"state": "시작",
+		"state": "마감",
 		"content": "2024년 SK핀크스 7월 신입 및 경력 정규직 채용",
 		"position": "신입·경력",
 		"plan": "07/02~07/09",
@@ -315,7 +315,7 @@
 		"link": "/Company/1436080/Info"
 	},
 	"호텔롯데": {
-		"state": "시작",
+		"state": "마감",
 		"content": "㈜호텔롯데 롯데시티호텔 & L7호텔 채용",
 		"position": "인턴·신입·경력",
 		"plan": "07/04~07/09",
@@ -600,6 +600,69 @@
 		"position": "신입",
 		"plan": "06/12~06/26",
 		"link": "/Company/1496362/Info"
+	},
+	"㈜케이티": {
+		"state": "시작",
+		"content": "2025년도 봄학기 KT AI석사과정 신입생모집(채용연계형 계약학과)",
+		"position": "신입",
+		"plan": "07/09~08/05",
+		"link": "/Company/1677206/Info"
+	},
+	"㈜한독": {
+		"state": "시작",
+		"content": "㈜한독 신입 제약 영업사원 공채 모집",
+		"position": "신입",
+		"plan": "07/09~07/24",
+		"link": "/Company/1636330/Info"
+	},
+	"경동제약(주)": {
+		"state": "시작",
+		"content": "경동제약 수시채용",
+		"position": "신입·경력",
+		"plan": "07/09~07/16",
+		"link": "/Company/1851055/Info"
+	},
+	"비케이알": {
+		"state": "시작",
+		"content": "버거킹 2024년 4차 신입 정규직 운영 관리직(Manager) 채용",
+		"position": "경력무관",
+		"plan": "07/09~07/28",
+		"link": "/Company/1641322/Info"
+	},
+	"㈜비바리퍼블리카": {
+		"state": "마감",
+		"content": "2024 하반기 토스 Ads Specialist 공개채용",
+		"position": "신입·경력",
+		"plan": "07/09~07/21",
+		"link": "/Company/16154461/Info"
+	},
+	"㈜성원아이북랜드": {
+		"state": "시작",
+		"content": "[강남본사] 각 부문 신입/경력직 채용",
+		"position": "신입·경력",
+		"plan": "07/09~07/22",
+		"link": "/Company/1908330/Info"
+	},
+	"동아출판": {
+		"state": "마감",
+		"content": "동아출판 2024년 6월 경력사원 채용",
+		"position": "신입·경력",
+		"plan": "06/26~07/09",
+		"link": "/Company/1801737/Info"
+	},
+	"디더블유피홀딩스㈜": {
+		"state": "마감",
+		"content": "[동화약품 그룹] 2024년 3분기 신입 및 경력사원 모집",
+		"position": "신입·경력",
+		"plan": "06/26~07/14",
+		"link": "/Company/45791823/Info"
+	},
+	"성(재)전북바이오융합산업진흥원": {
+		"state": "인적성",
+		"content": "2024년 제2차 직원채용 공고",
+		"position": "신입·경력",
+		"plan": "06/11~06/25",
+		"link": "/Company/16152887/Info"
 	},
 	"대성산업㈜": {
 		"state": "마감",
